@@ -1,2 +1,2 @@
-# Mental-Health
-A data analysis project about Global Happiness 
+# World Happiness Analysis
+A data analysis project about Global Happiness in 2024
