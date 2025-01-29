@@ -10,7 +10,11 @@ The data set was extracted from the WHR website: https://worldhappiness.report/e
 From a first look at the raw data, I came up with a few questions to answer:
 
 What is the average of happiness in Argentina ?
+
 What is the historical average of happiness in Argentina since 2012?
+
 What is the level of positive and negative effects perceived in Argentina ?
+
 Which was the year with lower levels of happiness?
+
 Which was the year with higher levels of happiness?
