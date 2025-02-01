@@ -16,25 +16,27 @@ The data set was extracted from the WHR website: https://worldhappiness.report/e
 
 From a first look at the raw data, I came up with a few questions to answer:
 
-1.What was the level of happiness in each country in the world last year?*/
+1.What was the level of happiness in each country in the world last year?
 
-2.What was the level of happiness in each country in the world last year?
+2.What was the level of happiness in Argentina last year?
 
 3.What is the evolution of happiness in Argentina registered until 2023?
 
 4.Which were the top five years with more happiness in Argentina?
 
-5.When was registered the maximum levels of happiness in Argentina?
+5.Which were the top five years with less happiness in Argentina?
 
-6.When was registered the minimum levels of happiness in Argentina?
+6.When was the maximum levels of happiness registered in Argentina?
 
-7.When was registered the lowest levels of positive effect in Argentina?
+7.When was the minimum levels of happiness registered in Argentina?
 
-8.When was the year with more positive feelings in Argentina?
+8.When was the lowest levels of positive effect registered in Argentina?
 
-9.When was the year with more negative thoughs and feelings in Argentina?
+9.When was the year with more positive feelings in Argentina?
 
-10.When was the year with less negative thoughs and feelings in Argentina?
+10.When was the year with more negative thoughs and feelings in Argentina?
+
+11.When was the year with less negative thoughs and feelings in Argentina?
 
 For EDA I used MYSQL. Here is the link to the full analysis 👉🏼 
 
