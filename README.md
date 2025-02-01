@@ -36,6 +36,6 @@ From a first look at the raw data, I came up with a few questions to answer:
 
 10.When was the year with less negative thoughs and feelings in Argentina?
 
-For EDA I used MYSQL. Here is the link to the full analysis 👉🏼https://github.com/noelianav91/Airbnb_Sevilla/blob/main/airbnb_sevilla.sql
+For EDA I used MYSQL. Here is the link to the full analysis 👉🏼
 
 Data visualization was realized in Power BI. Here is the link for it 👉🏼 
