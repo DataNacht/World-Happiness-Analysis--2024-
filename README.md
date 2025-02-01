@@ -7,9 +7,7 @@ This public data is available on the WHR website. It goes from 2005/2006 to 2023
 
 To understand this analysis, here are the columns explained in detail:
 - Country: The name of the country.
-
 - Life Ladder: This basically measures happiness or subjective well-being. Is the national average response to the question of life evaluations: "Please imagine a ladder, with steps numbered from 0 at the bottom to 10 at the top. The top of the ladder represents the best possible life for you and the bottom of the ladder represents the worst possible life for you. On which step of the ladder would you say you personally feel you stand at this time?”. This measure is also referred to as Cantril life ladder, or just life ladder.
-
 - Positive affect: The average of three positive affect measures: laugh, enjoyment and doing interesting things in the Gallup World Poll (GWP). They are the responses to the following three questions: “Did you smile or laugh a lot yesterday?”, and “Did you experience the following feelings during A LOT OF THE DAY yesterday? How about Enjoyment?”, “Did you learn or do something interesting yesterday?”
 
 -Negative affect: The average of three negative affect measures in GWP. They are worry, sadness and anger, respectively the responses to “Did
