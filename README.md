@@ -1,4 +1,4 @@
-# World Happiness Analysis
+# World Happiness Analysis🌐
 A data analysis project about Global Happiness in 2024
 
 The World Happiness Report (WHR) reviews the average of happiness in different countries around the globe. Every year since 2012 the WHR has published the research made by the Wellbeing Research Centre at the University of Oxford, in the UK, regarding global happiness. In order to gather the data, 1000 responses were gathered anually for each country.
@@ -19,12 +19,26 @@ The data set was extracted from the WHR website: https://worldhappiness.report/e
 
 From a first look at the raw data, I came up with a few questions to answer:
 
-What is the average of happiness in Argentina ?
+1.What was the level of happiness in each country in the world last year?*/
 
-What is the historical average of happiness in Argentina since 2012?
+2.What was the level of happiness in each country in the world last year?
 
-What is the level of positive and negative effects perceived in Argentina ?
+3.What is the evolution of happiness in Argentina registered until 2023?
 
-Which was the year with lower levels of happiness?
+4.Which were the top five years with more happiness in Argentina?
 
-Which was the year with higher levels of happiness?
+5.When was registered the maximum levels of happiness in Argentina?
+
+6.When was registered the minimum levels of happiness in Argentina?
+
+7.When was registered the lowest levels of positive effect in Argentina?
+
+8.When was the year with more positive feelings in Argentina?
+
+9.When was the year with more negative thoughs and feelings in Argentina?
+
+10.When was the year with less negative thoughs and feelings in Argentina?
+
+For EDA I used MYSQL. Here is the link to the full analysis 👉🏼https://github.com/noelianav91/Airbnb_Sevilla/blob/main/airbnb_sevilla.sql
+
+Data visualization was realized in Power BI. Here is the link for it 👉🏼 
