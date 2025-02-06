@@ -40,8 +40,7 @@ From a first look at the raw data, I came up with a few questions to answer:
 
 For EDA I used MYSQL. Here is the link to the full analysis 👉🏼 https://github.com/DataNacht/World-Happiness-Analysis--2024-/blob/main/Happiness_Analytics.sql
 
-Data visualization was realized in Power BI. Here is the link to the data to view on Power BI👉🏼 https://github.com/DataNacht/World-Happiness-Analysis--2024-/blob/main/HappinessDashboard.pbix
-
+Data visualization was realized in Power BI. Here is the link to the data to view on Power BI👉🏼 https://github.com/DataNacht/World-Happiness-Analysis--2024-/blob/main/Happiness_Analysis_Dashboard.pbix
 
 
 
