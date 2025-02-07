@@ -42,7 +42,8 @@ For EDA I used MYSQL. Here is the link to the full analysis 👉🏼 https://git
 
 Data visualization was realized in Power BI. Here is the link to the data to view on Power BI👉🏼 https://github.com/DataNacht/World-Happiness-Analysis--2024-/blob/main/Happiness_Analysis_Dashboard.pbix
 
-Last but not least, here is the final view of the dashboard for analysis:![image](https://github.com/user-attachments/assets/c7b80dbd-3f3a-47c0-a4cd-b7c09a0673b7)
+Last but not least, here is the final view of the dashboard for analysis: ![image](https://github.com/user-attachments/assets/43ce5122-0797-4618-87d3-5fdcd1f3e7c8)
+
 
 
 
